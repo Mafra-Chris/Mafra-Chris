@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 
 <a href="#">
-    <img align="left" alt="chris-mafra' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafra-chris&show_icons=true&theme=dark" />
+    <img  alt="chris-mafra' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafra-chris&show_icons=true&theme=dark" />
 </a>
 
 <br>
