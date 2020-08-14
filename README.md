@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I like playing the guitar
 -->
 <br>
-### Languages and Tools
-<hr>
+## Languages and Tools
+
 <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="#"><img align="left alt="chris-mafra' src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
