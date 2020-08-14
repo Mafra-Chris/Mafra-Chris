@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I like playing the guitar
 -->
 <br>
-<a href="https://icons8.com/icon/39854/javascript">Javascript icon by Icons8</a>
+<img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/>
 <a href="#">
     <img align="left" alt="chris-mafra' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafra-chris&show_icons=true&theme=dark" />
 </a>
