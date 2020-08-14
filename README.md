@@ -22,4 +22,6 @@ Here are some ideas to get you started:
     <img align="left" alt="chris-mafra' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafra-chris&show_icons=true&theme=dark" />
 </a>
 
+<br>
+
 See you space cowboy... :dizzy:
