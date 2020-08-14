@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 -->
 <br>
 <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <a href="#">
     <img align="left" alt="chris-mafra' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafra-chris&show_icons=true&theme=dark" />
 </a>
