@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Tedsys
 - 🌱 I’m currently learning Vue.js and PHP
 - ⚡ Fun fact: ... I like playing the guitar
--->
+
 <br>
 
 ## Languages and Tools
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <br>    
 <br>
 <br>
