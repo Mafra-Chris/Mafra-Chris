@@ -9,11 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I like playing the guitar
 -->
 <br>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 
-<!-- in your body -->
-<i class="devicon-bootstrap-plain"></i>
 <a href="#">
     <img align="left" alt="chris-mafra' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafra-chris&show_icons=true&theme=dark" />
 </a>
