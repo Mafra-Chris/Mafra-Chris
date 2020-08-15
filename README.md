@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue.js and PHP
 - ⚡ Fun fact: I like playing the guitar
 
-## Languages and Tools
+## :computer: Languages and Tools
 
 <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
