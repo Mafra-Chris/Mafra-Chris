@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-<a href="#"><img src="https://img.icons8.com/officel/16/000000/php-logo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/></a>
 
 <a href="#">
     <img  alt="chris-mafra' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafra-chris&show_icons=true&theme=dark" />
