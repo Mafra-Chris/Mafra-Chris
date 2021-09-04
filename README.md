@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mimetics
+- 🔭 I’m currently working on Mimetics Technologies
 - 🌱 I’m currently learning Vue.js and Python
 
 ## :computer: Languages and Tools
