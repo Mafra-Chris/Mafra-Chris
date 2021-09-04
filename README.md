@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 
 ## :iphone: Connect with me!
-<a href="https://www.linkedin.com/in/christiano-mafra/"><img src="https://img.icons8.com/android/35/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/christiano-mafra/"><img src="https://img.icons8.com/android/35/fffff/linkedin.png"/></a>
 
 <br>
 <br>
