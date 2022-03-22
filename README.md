@@ -2,8 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mimetics Technologies
-- 🌱 I’m currently learning React and Python
+- 🔭 I’m currently working on a55
 
 ## :computer: Languages and Tools
 
