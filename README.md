@@ -1,9 +1,5 @@
 ## Hey, I'm Chris 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a55
-
 ## :computer: Languages and Tools
 
 <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
